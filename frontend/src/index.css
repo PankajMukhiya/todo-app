@@ -1,0 +1,59 @@
+/* FONT_FAMILY */
+@import url("https://fonts.googleapis.com/css2?family=BioRhyme&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap");
+
+/* FONT FAMILY_NAME */
+/* 
+font-family: 'BioRhyme', serif;
+font-family: 'Roboto Mono', monospace; 
+font-family: 'Baloo Bhaijaan 2', cursive;
+font-family: 'Cinzel Decorative', cursive;
+
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+/* For Button Tags */
+button {
+  font-family: "Roboto Mono", monospace;
+}
+
+/* For Input Fields */
+input {
+  font-family: monospace;
+}
+
+/* For Heading Tags */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "BioRhyme", serif;
+}
+/* ______________________________________| NAVBAT COMPONENT|________________________________*/
+.navbar-brand {
+  font-family: "Cinzel Decorative", cursive;
+}
+.nav-item {
+  font-family: "BioRhyme", serif;
+}
+/* ______________________________________| SIGNUP COMPONENT|________________________________*/
+.SIGNUP_COL {
+  /* width: 50vw; */
+  border-radius: 22px;
+  background: linear-gradient(145deg, #cacaca, #f0f0f0);
+  box-shadow: 5px 5px 8px #5a5a5a, -5px -5px 8px #ffffff;
+}
+.SIGNUP_ROW {
+  height: 80vh;
+}
+/* ______________________________________| TODO COMPONENT|________________________________*/
