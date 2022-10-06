@@ -1,5 +1,8 @@
-# Getting Started with Create React App
+This is the link of project where you can preview : 
+   https://todo-app-ng6c.onrender.com/
+Deploy on RENDER APP
 
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
